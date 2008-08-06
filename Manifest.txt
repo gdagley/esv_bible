@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/esv_bible
+lib/esv_bible.rb
+spec/esv_bible_spec.rb

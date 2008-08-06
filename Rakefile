@@ -4,7 +4,7 @@ require 'spec/version'
 require 'spec/rake/spectask'
 require './lib/esv_bible'
 
-Hoe.new('EsvBible', EsvBible::VERSION) do |p|
+Hoe.new('esvbible', EsvBible::VERSION) do |p|
   p.rubyforge_name = 'esvbible' # if different than lowercase project name
   p.remote_rdoc_dir = ""
   p.developer('Geoffrey Dagley', 'gdagley@gmail.com')

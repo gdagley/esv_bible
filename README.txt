@@ -25,7 +25,7 @@ See ESV API docs http://www.esvapi.org/
 
 == INSTALL:
 
-* sudo gem install esv_bible
+* sudo gem install esvbible
 
 source is hosted at https://github.com/gdagley/esv_bible
 
